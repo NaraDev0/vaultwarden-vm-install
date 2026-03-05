@@ -8,7 +8,7 @@ set -e
 
 # ---- VARIABLES À MODIFIER ----
 DOMAIN="vault.mondomaine.local"   # vVotre domaine ou IP locale
-ADMIN_PASS="mdp123"        # Mot de passe panneau admin
+ADMIN_PASS="ChangeMoi123!"        # Mot de passe panneau admin
 DATA_DIR="/opt/vaultwarden"       # Répertoire de données
 # ------------------------------
 
